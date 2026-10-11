@@ -1,9 +1,9 @@
+import React from 'react';
+import HomePage from './landing_page/home/Homepage.js';
 function App() {
-  return (
-    <div className="App">
-      <h1>Hello Zerodha</h1>
-    </div>
-  );
+    return ( <>
+    <HomePage></HomePage>
+    </> );
 }
 
 export default App;
