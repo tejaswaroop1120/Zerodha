@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.footerA{
+  text-decoration: none;
+  color: black;
+  margin-bottom:10px ;
+}
+.footerA:hover{
+  color: skyblue;
+}
